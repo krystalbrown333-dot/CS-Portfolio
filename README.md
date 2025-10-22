@@ -9,7 +9,7 @@ Summarize the project and what problem it was solving:
 - The program generates two reports based on user input, making it easier to visualize long-term savings and the impact of consistent investing.
 
 What did you do particularly well?  
-- I designed a clean and modular class structure (`InvestmentCalculator`) to separate logic from the main function.  
+- I designed a clean and modular class structure InvestmentCalculator to separate logic from the main function.  
 - I implemented input validation to ensure users entered realistic and safe values.  
 - I formatted the output using precision settings and structured tables to make the reports easy to read.  
 - I documented the code thoroughly with comments to explain each section’s purpose and flow.
